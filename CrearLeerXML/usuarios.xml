@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<usuarios>
+    <USUARIO>
+        <ID>1</ID>
+        <NOMBRE>Sergio</NOMBRE>
+        <TELEFONO>234242543543</TELEFONO>
+    </USUARIO>
+    <USUARIO>
+        <ID>2</ID>
+        <NOMBRE>Laura</NOMBRE>
+        <TELEFONO>76865542424</TELEFONO>
+    </USUARIO>
+</usuarios>
